@@ -6,7 +6,7 @@ You can play this game by downloading it to your phone or ur pc.
 
 ## Pictures
 
-![image](https://user-images.githubusercontent.com/113240805/213368502-5553c715-43ba-4fc8-8421-346b6a873510.png) ![image](https://user-images.githubusercontent.com/113240805/213368596-ced354ab-1855-427d-a2ef-a3a356a08b9f.png) ![image](https://user-images.githubusercontent.com/113240805/213368632-02e0730b-92fc-4a35-aba9-0958ab69399d.png)
+![image](https://user-images.githubusercontent.com/113240805/213368502-5553c715-43ba-4fc8-8421-346b6a873510.png)              ![image](https://user-images.githubusercontent.com/113240805/213368596-ced354ab-1855-427d-a2ef-a3a356a08b9f.png) ![image](https://user-images.githubusercontent.com/113240805/213368632-02e0730b-92fc-4a35-aba9-0958ab69399d.png)
 
 
 
