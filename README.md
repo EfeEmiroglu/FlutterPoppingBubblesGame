@@ -4,6 +4,11 @@ This is a game where you control a character (square for now) and try to avoid t
 
 You can play this game by downloading it to your phone or ur pc.
 
+## Pictures
+
+![image](https://user-images.githubusercontent.com/113240805/213368502-5553c715-43ba-4fc8-8421-346b6a873510.png)
+
+
 ## Installation
 
 You can download this by downloading the files and running on your own device for now. I will be adding an .exe 
